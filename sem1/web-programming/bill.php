@@ -1,34 +1,6 @@
-[11:31 am, 26/02/2023] Vinsa MCA: <html>
+<html>
     <head>
-        <title>savio</title>
-        <script>
-    function show()
-    {
-        if(document.formsss.namebox.value==""){
-            alert("pls enter name");
-            document.formsss.namebox.focus(); 
-        }
-        if(document.formsss.agebox.value=="")
-        {
-            alert("aqge box empty");
-            document.formsss.agebox.focus();
-        }
-        if(document.formsss.genderbox.value=="")
-        {
-            alert("gender box empty");
-            document.formsss.agebox.focus();
-        }
-      if(document.formsss.mobilebox.value=="")
-        {
-            alert("mobile box empty");
-            document.formsss.agebox.focus();
-        }
-       if(document.formsss.course.value=="")
-        {
-            alert("course box…
-[0:00 pm, 26/02/2023] Vinsa MCA: <html>
-  <head>
-    
+        <title>Bill Invoice</title>
   </head>
   <body>
     <form action="" method="POST" >

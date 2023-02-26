@@ -1,4 +1,4 @@
-?php
+<?php
 $rr=new mysqli("localhost","root","","studentsss_2022");
 if($rr->connect_error)
 {

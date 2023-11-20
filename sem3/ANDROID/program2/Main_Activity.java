@@ -1,4 +1,4 @@
-package example.javatpoint.com.activitylifecycle;  
+package example.activitylifecycle;  
   
 import android.app.Activity;  
 import android.os.Bundle;  
